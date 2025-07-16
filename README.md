@@ -13,4 +13,6 @@
 
 ### Server Side Request Forgery
 
+### Reporting
+
 ## Contribution Guidelines
